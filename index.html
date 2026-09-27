@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Days Bygone archive</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="data.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <aside class="sidebar" id="sidebar">
+    <a class="brand" href="#/page/Main%20Page">Days Bygone</a>
+    <div class="sidebar-label">Navigation</div>
+    <nav aria-label="Main navigation">
+      <a data-page="Main Page" href="#/page/Main%20Page">Main page</a>
+      <a href="#/all">All pages <small id="page-count"></small></a>
+      <a data-page="Book of Heroes" href="#/page/Book%20of%20Heroes">Book of Heroes</a>
+      <a data-page="Game Info" href="#/page/Game%20Info">Game info</a>
+    </nav>
+    <div class="sidebar-label">Topics</div>
+    <nav aria-label="Game topics">
+      <a data-page="Rewinding Skills" href="#/page/Rewinding%20Skills">Rewinding & skills</a>
+      <a data-page="Runes" href="#/page/Runes">Runes & progression</a>
+      <a data-page="Weapons and Equipment" href="#/page/Weapons%20and%20Equipment">Weapons & equipment</a>
+      <a data-page="Gamemodes Mechanics" href="#/page/Gamemodes%20Mechanics">Game modes</a>
+      <a data-page="World Tree" href="#/page/World%20Tree">World Tree</a>
+      <a data-page="Guilds" href="#/page/Guilds">Guilds</a>
+    </nav>
+    <div class="sidebar-label">Other pages</div>
+    <nav aria-label="Community">
+      <a data-page="Community Resources" href="#/page/Community%20Resources">Community resources</a>
+      <a data-page="PatchNotes" href="#/page/PatchNotes">Patch notes</a>
+    </nav>
+  </aside>
+  <div class="workspace">
+    <header class="topbar">
+      <button id="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">Menu</button>
+      <form class="search" id="search-form" role="search"><input id="search-input" type="search" placeholder="Search archive" aria-label="Search all wiki pages" autocomplete="off"><button type="submit">Search</button></form>
+      <button id="theme-toggle" aria-label="Switch color theme">Dark mode</button>
+    </header>
+    <main id="main" tabindex="-1"></main>
+  </div>
+  <noscript><div class="noscript">JavaScript is required.</div></noscript>
+</body>
+</html>

@@ -1,0 +1,218 @@
+{
+  "records": 1050,
+  "uniquePages": 1049,
+  "visiblePages": 151,
+  "excludedFilePages": 658,
+  "excludedTemplatePages": 240,
+  "duplicateRecords": [
+    "Main Page"
+  ],
+  "articlePages": 74,
+  "redirects": 55,
+  "images": 647,
+  "namespaces": {
+    "0": 125,
+    "1": 1,
+    "2": 12,
+    "4": 1,
+    "6": 658,
+    "8": 4,
+    "10": 240,
+    "14": 8
+  },
+  "visibleNamespaces": {
+    "0": 125,
+    "1": 1,
+    "2": 12,
+    "4": 1,
+    "8": 4,
+    "14": 8
+  },
+  "displayOmissions": {
+    "Main Page": [
+      "== Welcome to {{SITENAME}}! ==\n",
+      " This wiki serves as a hub for all the guides written by the community for different parts of the game."
+    ],
+    "Book of Heroes": [
+      "Welcome to the Book of Heroes. Each page will take you to a brief guide discussing how to use each hero. If you would like to make any changes to these pages, please join the official Days Bygone Discord to join the official discussion channel."
+    ],
+    "Hero FAQ": [
+      "=Welcome to FAQ about heroes=",
+      " If you can't decide whether or not they are good, feel free to ask in [https://discord.com/channels/570929677732937738/570929677732937740 Discord #Gamechat] or [https://discord.com/channels/570929677732937738/696035168414072913 Discord #Help]."
+    ]
+  },
+  "missingImages": {
+    "Example.jpg": [
+      "Main Page"
+    ]
+  },
+  "missingPages": {
+    "Christmas": [
+      "User:Samnum"
+    ],
+    "Halloween": [
+      "User:Samnum"
+    ],
+    "Mage": [
+      "Runes"
+    ],
+    "MediaWiki:Gadgets": [
+      "MediaWiki:Specialpages-summary"
+    ],
+    "MediaWiki:Gadgets-definition": [
+      "MediaWiki:Specialpages-summary"
+    ],
+    "MediaWiki:Newarticletext": [
+      "MediaWiki:Specialpages-summary"
+    ],
+    "MediaWiki:Sidebar": [
+      "MediaWiki:Specialpages-summary"
+    ],
+    "MediaWiki:Theme-definitions": [
+      "MediaWiki:Specialpages-summary"
+    ],
+    "MediaWiki:common.js": [
+      "MediaWiki:Specialpages-summary"
+    ],
+    "MediaWiki:vector.js": [
+      "MediaWiki:Specialpages-summary"
+    ],
+    "Special:MyPage/common.css": [
+      "MediaWiki:Specialpages-summary"
+    ],
+    "Special:MyPage/common.js": [
+      "MediaWiki:Specialpages-summary"
+    ],
+    "Special:MyPage/sandbox": [
+      "MediaWiki:Specialpages-summary"
+    ],
+    "User talk:Indivisible": [
+      "Talk:Main Page"
+    ],
+    "support:Gadgets": [
+      "MediaWiki:Specialpages-summary"
+    ]
+  },
+  "unsupportedTemplates": {},
+  "resolvedImageAliases": {
+    "DbgSkin GARP-01-01.png": "DbgSkin GARP-01.png",
+    "Resource Offering.png": "Resources Offering.png",
+    "Resources amnity.png": "Resources_amity.png",
+    "Weapon WEternalGauntlet.png": "Weapon_LEternalGauntlet.png",
+    "Weapon WStormbreaker.png": "Weapon_LStormbreaker.png",
+    "Amnitystore.png": "Amitystore.png"
+  },
+  "resolvedTemplateAliases": {
+    "textancient": "Template:Text Boss Ancient",
+    "textcaveman": "Template:Text Boss Caveman",
+    "textdarksister": "Template:Text Boss DarkSister",
+    "textdragon": "Template:Text Boss Dragon",
+    "textlucifer": "Template:Text Boss Lucifer",
+    "textminotaur": "Template:Text Boss Minotaur",
+    "textreaper": "Template:Text Boss Reaper",
+    "textundead": "Template:Text Boss Undead",
+    "textvoiddragon": "Template:Text Boss VoidDragon",
+    "textabel": "Template:Text Hero Abel",
+    "textarthur": "Template:Text Hero Arthur",
+    "textarthure": "Template:Text Hero ArthurE",
+    "textbellona": "Template:Text Hero bellona",
+    "textbeth": "Template:Text Hero Beth",
+    "textboreas": "Template:Text Hero Boreas",
+    "textcain": "Template:Text Hero Cain",
+    "textchandler": "Template:Text Hero Chandler",
+    "textcherry": "Template:Text Hero Cherry",
+    "textcherrye": "Template:Text Hero CherryE",
+    "textclarissa": "Template:Text Hero Clarissa",
+    "textcusack": "Template:Text Hero Cusack",
+    "textdm": "Template:Text Hero DM",
+    "textdaryondevilkin": "Template:Text Hero DaryonDevilkin",
+    "textdash": "Template:Text Hero Dash",
+    "textdewitt": "Template:Text Hero Dewitt",
+    "textelaine": "Template:Text Hero Elaine",
+    "textelden": "Template:Text Hero Elden",
+    "texteleanor": "Template:Text Hero Eleanor",
+    "textesther": "Template:Text Hero Esther",
+    "textfred": "Template:Text Hero Fred",
+    "textfrede": "Template:Text Hero FredE",
+    "textgarp": "Template:Text Hero Garp",
+    "textgeneric": "Template:Text Hero Generic",
+    "textgenericred": "Template:Text Hero GenericRed",
+    "textgreg": "Template:Text Hero Greg",
+    "textgrege": "Template:Text Hero GregE",
+    "textgriflet": "Template:Text Hero Griflet",
+    "textgwen": "Template:Text Hero Gwen",
+    "texthank": "Template:Text Hero Hank",
+    "texthanke": "Template:Text Hero HankE",
+    "textharrow": "Template:Text Hero Harrow",
+    "textiseria": "Template:Text Hero Iseria",
+    "textjoan": "Template:Text Hero Joan",
+    "textjob": "Template:Text Hero Job",
+    "textjobe": "Template:Text Hero JobE",
+    "textka": "Template:Text Hero KA",
+    "textlilibeth": "Template:Text Hero Lilibeth",
+    "textlilith": "Template:Text Hero Lilith",
+    "textluna": "Template:Text Hero Luna",
+    "textmax": "Template:Text Hero Max",
+    "textmerlin": "Template:Text Hero Merlin",
+    "textmik": "Template:Text Hero Mik",
+    "textnero": "Template:Text Hero Nero",
+    "textophelia": "Template:Text Hero Ophelia",
+    "textorsted": "Template:Text Hero Orsted",
+    "textpaul": "Template:Text Hero Paul",
+    "textpaule": "Template:Text Hero PaulE",
+    "textperci": "Template:Text Hero Perci",
+    "textpike": "Template:Text Hero Pike",
+    "textroland": "Template:Text Hero Roland",
+    "texttitor": "Template:Text Hero Titor",
+    "texttristan": "Template:Text Hero Tristan",
+    "textzare": "Template:Text Hero Zare",
+    "textzaree": "Template:Text Hero ZareE",
+    "textzeus": "Template:Text Hero Zeus",
+    "textstardark": "Template:Text Misc StarDark",
+    "textstargold": "Template:Text Misc StarGold",
+    "textstarrainbow": "Template:Text Misc StarRainbow",
+    "textstarred": "Template:Text Misc StarRed",
+    "textstarvoid": "Template:Text Misc StarVoid",
+    "textbanshee": "Template:Text Mob Banshee",
+    "textblob": "Template:Text Mob Blob",
+    "textcaps": "Template:Text Mob Caps",
+    "textdino": "Template:Text Mob Dino",
+    "textdrone": "Template:Text Mob Drone",
+    "textfrosk": "Template:Text Mob Frosk",
+    "textgargoyle": "Template:Text Mob Gargoyle",
+    "textkeybearer": "Template:Text Mob KeyBearer",
+    "textrex": "Template:Text Mob Rex",
+    "textscorch": "Template:Text Mob Scorch",
+    "textshade": "Template:Text Mob Shade",
+    "textvoidboar": "Template:Text Mob VoidBoar",
+    "textwarmonger": "Template:Text Mob Warmonger",
+    "textamity": "Template:Text Resource Amity",
+    "textbone": "Template:Text Resource Bone",
+    "textcrate": "Template:Text Resource Crate",
+    "textcybercore": "Template:Text Resource CyberCore",
+    "textelixir": "Template:Text Resource Elixir",
+    "textfateticket": "Template:Text Resource FateTicket",
+    "textgoldencrate": "Template:Text Resource GoldenCrate",
+    "textguildmedal": "Template:Text Resource GuildMedal",
+    "textkey": "Template:Text Resource Key",
+    "textoffering": "Template:Text Resource Offering",
+    "textruby": "Template:Text Resource Ruby",
+    "textscroll": "Template:Text Resource Scroll",
+    "textticket": "Template:Text Resource Ticket",
+    "texttimestone": "Template:Text Resource TimeStone",
+    "textvoidcrate": "Template:Text Resource VoidCrate",
+    "textvoidshard": "Template:Text Resource VoidShard",
+    "textvoidticket": "Template:Text Resource VoidTicket",
+    "textwtapple": "Template:Text Resource WTApple",
+    "text misc goldstar": "Template:Text Misc StarGold",
+    "textredstar": "Template:Text Misc StarRed",
+    "textvoidstar": "Template:Text Misc StarVoid",
+    "textamnity": "Template:Text Resource Amity",
+    "textpaula": "Template:Text Hero PaulE",
+    "texthanka": "Template:Text Hero HankE",
+    "textcherrya": "Template:Text Hero CherryE",
+    "textfreda": "Template:Text Hero FredE",
+    "textjoba": "Template:Text Hero JobE"
+  },
+  "snapshot": "2026-09-08"
+}
