@@ -130,7 +130,6 @@
     if(e.key==='Escape'){searchInput.blur();document.body.classList.remove('menu-open');document.querySelector('#menu-toggle').setAttribute('aria-expanded','false');}
   });
   document.querySelector('#menu-toggle').onclick=()=>{const open=document.body.classList.toggle('menu-open');document.querySelector('#menu-toggle').setAttribute('aria-expanded',String(open));};
-  try{if(localStorage.getItem('dbg-theme')==='dark')document.documentElement.dataset.theme='dark';}catch{}
   const updateThemeLabel=()=>{document.querySelector('#theme-toggle').textContent=document.documentElement.dataset.theme==='dark'?'Light mode':'Dark mode';};
   updateThemeLabel();
   document.querySelector('#theme-toggle').onclick=()=>{

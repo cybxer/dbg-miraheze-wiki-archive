@@ -1,9 +1,17 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Days Bygone archive</title>
+  <script>
+    try {
+      const savedTheme = localStorage.getItem('dbg-theme');
+      if (savedTheme === 'light' || savedTheme === 'dark') {
+        document.documentElement.dataset.theme = savedTheme;
+      }
+    } catch {}
+  </script>
   <link rel="stylesheet" href="styles.css">
   <script src="data.js" defer></script>
   <script src="app.js" defer></script>
@@ -38,7 +46,7 @@
     <header class="topbar">
       <button id="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">Menu</button>
       <form class="search" id="search-form" role="search"><input id="search-input" type="search" placeholder="Search archive" aria-label="Search all wiki pages" autocomplete="off"><button type="submit">Search</button></form>
-      <button id="theme-toggle" aria-label="Switch color theme">Dark mode</button>
+      <button id="theme-toggle" aria-label="Switch color theme">Light mode</button>
     </header>
     <main id="main" tabindex="-1"></main>
   </div>
